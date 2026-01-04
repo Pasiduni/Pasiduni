@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Pasiduni 👋
 
-<!--
-**Pasiduni/Pasiduni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate  
+💻 Mobile & Web Application Developer  
+🌱 Learning Git, GitHub, and software development best practices  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Programming: Java, Python, C++
+- Mobile: Android 
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Build real-world projects
+- Improve version control skills
+- Contribute to open-source projects
+
